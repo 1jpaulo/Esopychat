@@ -5,17 +5,10 @@ ___
 
 ### Run
 `
-$ python3 server.py 
+$ python3 esopychat.py 
 `
 
-in another terminal tab:
-
-`
-$ python3 client.py
-`
-
-yet another terminal tab:
-
-`
-$ python3 client.py
-`
+---
+**Note**
+This is in test mode only and still won't produce a chat experience. 
+---
